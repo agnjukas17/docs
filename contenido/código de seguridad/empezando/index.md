@@ -1,4 +1,5 @@
----
+---index.md
+
 title: Getting started with code security
 shortTitle: Getting started
 intro: 'Introduction to code security with {% data variables.product.product_name %}.'
